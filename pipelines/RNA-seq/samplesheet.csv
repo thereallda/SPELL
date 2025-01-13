@@ -1,0 +1,3 @@
+sample,fastq_1,fastq_2
+NC1,SQ23003392-KU-NC1_combined_R1.fastq.gz,SQ23003392-KU-NC1_combined_R2.fastq.gz
+NC4,SQ23003392-KU-NC4_combined_R1.fastq.gz,SQ23003392-KU-NC4_combined_R2.fastq.gz
