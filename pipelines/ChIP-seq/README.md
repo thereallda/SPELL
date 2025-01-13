@@ -1,6 +1,6 @@
 # Description
 
-The `BOWTIE2_Pipeline.sh` script integrates the common steps of ChIP-seq analysis such as 
+The `ChIPseq_Pipeline.sh` script integrates the common steps of ChIP-seq analysis such as 
 
 1. QC(adapters trimming included)
 
@@ -75,7 +75,7 @@ bash run_bowtie2_pipeline.sh -d <project_dir> -o <output_dir> -a <forward_strand
   |-- clean
   ...
   `-- raw
-...
+  ...
   ```
 
   3.  The bowtie2 mapping and samtools results in `<output_dir>/bowtie/`
